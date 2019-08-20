@@ -11,3 +11,20 @@ preview="https://"
 adult="No"
 info="http://"
 description="Palomitas PARA KODI 18[CR]"
+
+
+
+
+
+name="Wizard Palomitas"
+version="1.2"
+url="https://archive.org/download/wizardpalomitas180819/WizardPalomitas-18-08-19.zip"
+gui=""
+kodi="18"
+theme="http://"
+icon="https://i.imgur.com/vDYa6nv.jpg"
+fanart="https://i.imgur.com/O2MrjiW.jpg"
+preview="https://"
+adult="No"
+info="http://"
+description="WIZARD PALOMITAS PARA KODI 18[CR]"
