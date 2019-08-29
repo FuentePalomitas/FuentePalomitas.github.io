@@ -36,4 +36,20 @@
 	  </assets>
   </extension>
 </addon>
+
+<addon id="repository.Armageddon" name="[COLOR gold]Repo Armageddon[/COLOR]" version="0.0.1" provider-name="Hectobo Y David">
+
+    <extension point="xbmc.addon.repository" name="Armageddon">
+		<info>https://fuentepalomitas.github.io/MyRepos/Armageddon/addons.xml</info>
+		<checksum>https://fuentepalomitas.github.io/MyRepos/Armageddon/addons.xml.md5</checksum>
+		<datadir zip="true">https://fuentepalomitas.github.io/MyRepos/Armageddon/</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repo Armageddon</summary>
+        <description>Repo Armageddon</description>
+        <disclaimer>El Addon No Contiene Enlaces Propios Son Recolectados De Internet Al Alcance De Todos Este Addon Solo Conecta Los Enlaces</disclaimer>
+        <platform>all</platform>
+
+    </extension>
+</addon>
 </addons>
