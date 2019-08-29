@@ -1,6 +1,6 @@
 id="plugin.program.Palomitas"
-version="0.3.2"
-zip="http://Fuentepalomitas.github.io/Txt/plugin.program.Palomitas.zip"
+version="0.0.1"
+zip="https://fuentepalomitas.github.io/Txt/Let%C2%B4s%20Play/plugin.program.LetsPlay.zip"
 
 
 
