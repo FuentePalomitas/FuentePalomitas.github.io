@@ -1,0 +1,6 @@
+<item>
+<title>[COLOR gold]Palantir[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.palantir/?action=pelis_menu</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/plugin.video.palantir/icon.png</thumbnail>
+</item>
