@@ -1,0 +1,20 @@
+id="plugin.program.Armageddon"
+version="0.0.1"
+zip="http://Fuentepalomitas.github.io/Txt/plugin.program.Palomitas.zip"
+
+
+
+
+
+name="Muy Pronto"
+version="1.2"
+url="https://archive.org/download/SOON"
+gui=""
+kodi="18"
+theme="http://"
+icon="https:/"
+fanart="https://"
+preview="https://"
+adult="No"
+info="http://"
+description="WIZARD PALOMITAS PARA KODI 18[CR]"
