@@ -1,1 +1,1 @@
-name="Game Of Thrones" url="https://archive.org/download/modified_topics_201909/modified_topics.zip"
+name="Game Of Thrones" url="https://archive.org/download/modified_topics_20190910/modified_topics.zip"
