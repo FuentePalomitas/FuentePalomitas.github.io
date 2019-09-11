@@ -2,14 +2,12 @@
 <title>[COLOR white]Selector[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>script.DownloadTheme</jsonrpc>
-<thumbnail>https://i.imgur.com/MTfMfa0.jpg</thumbnail>
-<fanart>https://3.bp.blogspot.com/-BwSmYmb5nTE/WzEm9R2JmQI/AAAAAAAAHt4/9QSuAKUdZjQXuJ221alO-silPWB_1olOwCLcBGAs/s1600/fanaaa.jpg</fanart>
+<thumbnail>https://i.imgur.com/0BV3Lqi.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]Carga El Tema[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>script.EnableTheme</jsonrpc>
-<thumbnail>https://i.imgur.com/MTfMfa0.jpg</thumbnail>
-<fanart>https://3.bp.blogspot.com/-BwSmYmb5nTE/WzEm9R2JmQI/AAAAAAAAHt4/9QSuAKUdZjQXuJ221alO-silPWB_1olOwCLcBGAs/s1600/fanaaa.jpg</fanart>
+<thumbnail>https://i.imgur.com/0BV3Lqi.jpg</thumbnail>
 </item>
