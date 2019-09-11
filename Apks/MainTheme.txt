@@ -1,3 +1,8 @@
+
+
+import xbmc
+
+
 <item>
 <title>[COLOR white]Selector[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -11,3 +16,14 @@
 <jsonrpc>plugin://script.EnableTheme</jsonrpc>
 <thumbnail>https://i.imgur.com/0BV3Lqi.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR white]Test[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>XBMC.RunScript(special://home/addons/script.DownloadTheme/update.py)</jsonrpc>
+<thumbnail>https://i.imgur.com/0BV3Lqi.jpg</thumbnail>
+</item>
+
+
+
