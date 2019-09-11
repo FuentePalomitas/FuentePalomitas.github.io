@@ -1,1 +1,15 @@
-u+xHECJry0YThSdeRcv542AxRFtESAj2N9VlLcMU4QSe/Bs3cfuDuKRJwgNUUJGvIQigzi9x+5sqFpJXumhfLOLRIzjtZoIKPMndaTFEWbs1bbHiwekds7FZRyh+BcDBTZK0zDb6vqSL7UHBHmBqsrJAFuGYTTdL9fXRbg/jz4oONOqrwprLCxWm64vccuYXNwuUfqfl3lxoXjw2RVNq2h6IHl6teurBPT7sJEPdbHUpwI0wU0uDCaiMdXrHK0snFk7F+GY9R4eD/mAVvDQEmJlYwWznf/0tQ8SvFjtUXhfeRmWqxNFw6FzfRVXApe6uAjnLoDzjq59VYolN17hdTWoXNobBe41opEGtXssGKF/bOEHnpyyRrEX1ief1p5ETfQeR0jeEa5C6b4iEbez/t3PiS2lMZHYZKcMFx5wuk2Lr5PDDFBtBrZss9wyVMcK9YUatnv9P1LGrRL7Q1WnQLXeeIHuCn54UIqEqZ3Lq2Qnc6UaoVH1bmQuGF6eQtem2pMdNbCN9ZmHH72+eaILLXbh6alvwqss4AR1J8kAOGuTpw2lAB7nEouTy5fcOOM424CAqwxQ9tr4PnRyTF1ABFDFz3lc0b/75jP8jJIw4v0kOBJwoBGV0auW9YARDmDWNIjCbiXUIEaTPYpmutRxM7vpqn9w4/ni6AnEPgjWyyYMRdnet0yJ4H208WqVDj9/+51oL0/Ny4kdXtfejO/e6f86VXdD7cIuw1c9hfjtE5do+amrmxqx83ovZhpVGhyBsSzXUaml7eYZMp035J40YGxbsuUCLQY+YpfLGnwhRZP4ZWdYcgjJv0d7Ue3s/P6uVJi1JQye3a/RFYSMMSnAwu23z7RKpUvRC1aZy++mpxEw=
+<item>
+<title>[COLOR white]Selector[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>script.DownloadTheme</jsonrpc>
+<thumbnail>https://i.imgur.com/MTfMfa0.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-BwSmYmb5nTE/WzEm9R2JmQI/AAAAAAAAHt4/9QSuAKUdZjQXuJ221alO-silPWB_1olOwCLcBGAs/s1600/fanaaa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Carga El Tema[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>script.EnableTheme</jsonrpc>
+<thumbnail>https://i.imgur.com/MTfMfa0.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-BwSmYmb5nTE/WzEm9R2JmQI/AAAAAAAAHt4/9QSuAKUdZjQXuJ221alO-silPWB_1olOwCLcBGAs/s1600/fanaaa.jpg</fanart>
+</item>
