@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Armageddon"
        name="[COLOR gold][B]Armageddon[/B][/COLOR]"
-       version="0.0.3"
-       provider-name="[COLOR aqua]Hectobo Y David[/COLOR]">
+       version="0.0.4"
+       provider-name="[COLOR aqua][B]Hectobo Y David[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -18,20 +18,19 @@
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
   </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
+  <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>video</provides>
   </extension>
-
-  
+   <extension point="xbmc.addon.repository" name="Armageddon">
+		<info>https://fuentepalomitas.github.io/MyRepos/Armageddon/addons.xml</info>
+		<checksum>https://fuentepalomitas.github.io/MyRepos/Armageddon/addons.xml.md5</checksum>
+		<datadir zip="true">https://fuentepalomitas.github.io/MyRepos/Armageddon/</datadir>
+	</extension>
   <extension point="xbmc.addon.metadata">
   <summary lang="en">Bienvenidos Al Armageddon</summary>
     <language>en</language>
     <description lang="en">CANALES RETRANSMITIDOS POR INTERNET Y OTRAS PLATAFORMAS </description>
     <disclaimer>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE CONECTA  A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS</disclaimer>
      <platform>all</platform>
-        <assets>
-		<icon>Armageddon.jpg</icon>
-		<fanart>Back.jpg</fanart>
-	  </assets>
   </extension>
 </addon>
