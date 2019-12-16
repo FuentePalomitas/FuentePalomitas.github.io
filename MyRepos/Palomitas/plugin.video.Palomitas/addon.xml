@@ -19,9 +19,15 @@
      <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video audio</provides>
+    <provides>video</provides>
   </extension> 
-
+  
+<extension point="xbmc.addon.repository" name="Palomitas">
+		<info>https://fuentepalomitas.github.io/MyRepos/Palomitas/addons.xml</info>
+		<checksum>https://fuentepalomitas.github.io/MyRepos/Palomitas/addons.xml.md5</checksum>
+		<datadir zip="true">https://fuentepalomitas.github.io/MyRepos/Palomitas/</datadir>
+	</extension>
+	
   <extension point="xbmc.addon.metadata">
     <summary>Entra en el mundo de PALOMITAS</summary>
     <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
