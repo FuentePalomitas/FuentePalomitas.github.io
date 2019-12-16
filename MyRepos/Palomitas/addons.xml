@@ -53,7 +53,7 @@
      <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video audio</provides>
+    <provides>video</provides>
   </extension> 
 
   <extension point="xbmc.addon.metadata">
